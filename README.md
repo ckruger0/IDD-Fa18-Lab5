@@ -5,11 +5,12 @@
 <img src="https://i.imgur.com/L8R6NpN.jpg"><BR>Top view of two 3D printed parts: the servo holder and the bopper.<BR><BR>
 <img src="https://i.imgur.com/XR51Rlk.jpg"><BR>Side view of aforementioned parts.<BR><BR>
 
-Bopper .stl file can be viewed <a href="">here</a>, and comes sourced from the Thingiverse listing <a href="https://www.thingiverse.com/thing:46289">here</a>. 
+Bopper .stl file can be viewed <a href="https://github.com/ckruger0/IDD-Fa18-Lab5/blob/master/useless_Machine_arm.stl">here</a>, and comes sourced from the Thingiverse listing <a href="https://www.thingiverse.com/thing:46289">here</a>. 
 
 ## Laser Cutting
 
-<img src="https://i.imgur.com/OqCcntJ.jpg">
+<img src="https://i.imgur.com/OqCcntJ.jpg"><BR>
+Assembled laser cut cardboard pieces to form the useless box. 
 
 ## Electronics
 
