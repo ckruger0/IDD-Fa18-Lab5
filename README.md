@@ -2,17 +2,22 @@
 
 ## 3D Printing
 
-**a. Include a photo of your printed part here.**
+<img src="https://i.imgur.com/L8R6NpN.jpg"><BR>Top view of two 3D printed parts: the servo holder and the bopper.<BR><BR>
+<img src="https://i.imgur.com/XR51Rlk.jpg"><BR>Side view of aforementioned parts.<BR><BR>
 
-
-
-**b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
+Bopper .stl file can be viewed <a href="">here</a>, and comes sourced from the Thingiverse listing <a href="https://www.thingiverse.com/thing:46289">here</a>. 
 
 ## Laser Cutting
 
-**b. Include a photo of your box here.**
+<img src="https://i.imgur.com/OqCcntJ.jpg">
 
 ## Electronics
+
+**c. Upload code & a photo of your electronic circuit here.**
+
+<img src="https://i.imgur.com/EoExAaL.jpg"><BR>Photo of electronic circuit<br><br>
+
+I used the instructor-provided code to control my useless box. Code is copied below for reference:
 
 ```
 // Useless Box Lab 5
@@ -79,12 +84,6 @@ void loop()
 }
 ```
 
-**c. Upload code & a photo of your electronic circuit here.**
-
 ## Putting it All Together
 
-Include here:
-1. Your Arduino code.
-1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
-1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your useless box in action.
+<a href="https://youtu.be/moohreKvdjw"><b>Video of Useless Box in Action</b></a>
