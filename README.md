@@ -87,3 +87,5 @@ void loop()
 ## Putting it All Together
 
 <a href="https://youtu.be/moohreKvdjw"><b>Video of Useless Box in Action</b></a>
+<BR><BR>
+During final testing I realized that the switch is not very tall and would require a reworking of the bopper arm to accomodate its height. Instead of creating a new bopper I taped a strip of plastic to the switch for additional leverage that allowed the useless box to work. 
