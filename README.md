@@ -1,6 +1,6 @@
 # Useless Box
 
-Lab completed by Chris Kruger - crk78
+A lab report by Chris Kruger - crk78
 
 ## 3D Printing
 
