@@ -1,5 +1,7 @@
 # Useless Box
 
+Lab completed by Chris Kruger - crk78
+
 ## 3D Printing
 
 <img src="https://i.imgur.com/L8R6NpN.jpg"><BR>Top view of two 3D printed parts: the servo holder and the bopper.<BR><BR>
